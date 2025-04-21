@@ -25,7 +25,7 @@
 ;(() => {
     const object = { nom: 'Ona', edat: 25, ciutat: 'Barcelona' }
     for (let property in object) {
-        console.log(`Key : ${property} | Value ${object[property]}`)
+        console.log(`Key : ${property} | Value : ${object[property]}`)
     }
 })()
 

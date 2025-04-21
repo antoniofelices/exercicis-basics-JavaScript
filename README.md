@@ -10,9 +10,17 @@ Tasca 2.1.
 
 ## Requirements
 
+-   A web browser.
+
 ## Documentation
 
-### Installation
+-   [Exercici 1.1: Arrow functions](https://codepen.io/antonio-f/pen/yyyeRRR?editors=1111)
+-   [Exercici 1.2: Operador ternari](https://codepen.io/antonio-f/pen/LEEGXpZ?editors=1112)
+-   [Exercici 1.3: Callbacks](https://codepen.io/antonio-f/pen/RNNrqGL?editors=1112)
+-   [Exercici 1.4: Rest & Spread operators](https://codepen.io/antonio-f/pen/JooGerb?editors=1112)
+-   [Exercici 1.5: Array transformations](https://codepen.io/antonio-f/pen/XJJXyqd?editors=1111)
+-   [Exercici 1.6: Array loops](https://codepen.io/antonio-f/pen/jEEWQvg?editors=1112)
+-   [Exercici 1.7: Promises & Async/Await]()
 
 ## Contributing
 
