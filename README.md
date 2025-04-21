@@ -14,6 +14,8 @@ Tasca 2.1.
 
 ## Documentation
 
+Open the links. Open the console (`console` at the bottom left). If you don't see anything, click on the `Run` button at the top right.
+
 -   [Exercici 1.1: Arrow functions](https://codepen.io/antonio-f/pen/yyyeRRR?editors=1111)
 -   [Exercici 1.2: Operador ternari](https://codepen.io/antonio-f/pen/LEEGXpZ?editors=1112)
 -   [Exercici 1.3: Callbacks](https://codepen.io/antonio-f/pen/RNNrqGL?editors=1112)
