@@ -22,7 +22,7 @@ Open the links. Open the console (`console` at the bottom left). If you don't se
 -   [Exercici 1.4: Rest & Spread operators](https://codepen.io/antonio-f/pen/JooGerb?editors=1112)
 -   [Exercici 1.5: Array transformations](https://codepen.io/antonio-f/pen/XJJXyqd?editors=1111)
 -   [Exercici 1.6: Array loops](https://codepen.io/antonio-f/pen/jEEWQvg?editors=1112)
--   [Exercici 1.7: Promises & Async/Await]()
+-   [Exercici 1.7: Promises & Async/Await](https://codepen.io/antonio-f/pen/pvvyemP?editors=1112)
 
 ## Contributing
 
