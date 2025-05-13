@@ -23,7 +23,6 @@ sayHello
 
 /* 3. Promesa amb reject */
 const validateGreets = new Promise((resolve, reject) => {
-    // const validation = document.getElementById('inputGreets').value
     const validation = 'Hola'
     setTimeout(() => {
         if (validation == 'Hola') {

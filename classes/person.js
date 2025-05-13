@@ -14,7 +14,7 @@ class Person {
     toString() {
         return `
             name: ${this.nameUser},
-            green: ${this.greet()}
+            greet: ${this.greet()}
         `
     }
 }
